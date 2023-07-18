@@ -1,5 +1,6 @@
 package part6.list.v02_v09;
 
+//commitg
 public class MyLinkedList<T> implements Ilist<T> {
     private  int size;
     private Node head;

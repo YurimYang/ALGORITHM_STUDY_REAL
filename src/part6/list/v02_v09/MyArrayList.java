@@ -1,7 +1,7 @@
 package part6.list.v02_v09;
 
 import java.util.Arrays;
-
+//commit
 public class MyArrayList<T> implements Ilist<T> {
     private static final int DEFAULT_SIZE = 50;
 

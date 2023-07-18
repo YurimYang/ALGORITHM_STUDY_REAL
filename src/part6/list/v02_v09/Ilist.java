@@ -1,6 +1,6 @@
 package part6.list.v02_v09;
 
-
+//commit
 public interface Ilist<T> {
 
     void add(T t);
