@@ -29,5 +29,17 @@ public class q2164 {
                 }
             }
         }
+        /**
+         * 야놀자강의풀이
+         * int count = 1;
+         * while (queue.size()! =1){
+         *  int queue = queue.poll();
+         *  if(count % 2 == 0){
+         *      q.offer(queue);
+         * }
+         * count++;
+         * }
+         * System.out.println(queue.peek());
+         */
     }
 }

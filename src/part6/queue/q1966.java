@@ -21,8 +21,7 @@ public class q1966 {
 
             LinkedList<int[]> q = new LinkedList<>();
             for (int i=0;i<n;i++){
-                q.offer((new int[] {i,sc.nextInt()}));
-                //{초기위치, 중요도}
+                q.offer((new int[] {i,sc.nextInt()})); //{초기위치, 중요도}
             }
             int cnt = 0;
             while(!q.isEmpty()){
