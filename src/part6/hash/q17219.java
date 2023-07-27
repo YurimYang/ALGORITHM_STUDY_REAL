@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class q17219 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        StringBuilder sb = new StringBuilder();
         Hashtable ht = new Hashtable();
         String str1 = sc.nextLine();
         String[] strArr1 = str1.split(" ");
